@@ -2,7 +2,7 @@ Turicreate runs in Docker containers,
 
 Build your turicreate with tag,
 
-$ docker build -t turicreate:tag.
+$ docker build -t turicreate:tag Dockerfile
 
 Run the docker container from the builded image
 
