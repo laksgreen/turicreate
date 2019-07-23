@@ -1,4 +1,4 @@
-The docker image use the Ubuntu-18.04 version
+The docker image use the Ubuntu-18.04 version for CPU 
 FROM ubuntu:18.04
 ARG ARG1
 # It would Prevent apt-get asking questions and expecting our response
